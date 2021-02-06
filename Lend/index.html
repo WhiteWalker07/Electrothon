@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sign Up Form by Colorlib</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="container">
+            <div class="signup-content">
+                <form method="POST" id="signup-form" class="signup-form">
+                    <h2>Welcome </h2>
+                    <p class="desc"> <span>“Let's Book a Beam”</span></p>
+
+                    <!-- Dropdown -->
+                    <div class="form-group">
+                        <form name="form1" id="form1" action="/action_page.php">
+                            Subjects: <select name="subject" id="subject">
+                              <option value="" selected="selected">Select subject</option>
+                            </select>
+                            <br><br> Topics: <select name="topic" id="topic">
+                              <option value="" selected="selected">Please select subject first</option>
+                            </select>
+                            <br><br> Chapters: <select name="chapter" id="chapter">
+                              <option value="" selected="selected">Please select topic first</option>
+                            </select>
+                            <br><br>
+                        </form>
+
+
+                        <div class="form-group">
+                            <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
+                            <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in  <a href="#" class="term-service">Terms of service</a></label>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" name="submit" id="submit" class="form-submit submit" value="Submit" />
+                            <input type="submit" name="submit" id="submit" class="form-submit submit" value="Log out" />
+                        </div>
+                </form>
+                </div>
+            </div>
+
+        </div>
+        <div class="container page">
+            <!-- Content here -->
+            <h2>Lend your books </h2>
+            Books that I have lent.
+            <ul>
+                <li>This is book 1</li>
+                <li>This is book 2</li>
+                <li>This is book 3</li>
+                <li>This is book 4</li>
+            </ul>
+        </div>
+
+        <!-- JS -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="js/main.js"></script>
+</body>
+<!-- This templates was made by Colorlib (https://colorlib.com) -->
+
+</html>
