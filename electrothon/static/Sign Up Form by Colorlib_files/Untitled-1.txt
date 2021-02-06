@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Transparent and responsive sign up form</title>
+<link rel ="stylesheet" href ="mystyle.css">
+</head>
+<body>
+<div class ="wrap">
+     <h2> Sign Up Here</h2>
+     <form>
+        <input type ="text" placeholder ="First Name,. ." required>
+     
+     </form>
+</body>
+</html>
