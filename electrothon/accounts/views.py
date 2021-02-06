@@ -15,7 +15,7 @@ def login(request):
         if user is not None :
             print("loged in")
             authlog(request,user)
-            return redirect("borrow")
+            return redirect("profile")
             
         else :
             messages.info("invalid Username or Password")
@@ -46,7 +46,7 @@ def register(request):
                 user = User.objects.create_user( username = username , password = password1 , first_name = first_name , last_name = last_name , email = email, phone = contact , institute = institute , dob =dob)
                 user.save()
                 print("USER CREATED !!!!!")
-                return redirect("/")   
+                return redirect("accounts/login")   
         else :
             messages.info(request,'Password and Confirm Password are not matching')
             return redirect("register")
