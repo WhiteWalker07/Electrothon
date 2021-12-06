@@ -27,10 +27,10 @@ Ever voraciously searched for a book in the library a night before the exam only
 
 <h2> :camera: Gallery</h2>
   <div align="center">
-  <img src="https://user-images.githubusercontent.com/77115160/144872826-fa13e36a-df97-486e-a1e3-523a57df89ea.jpeg" alt="book-a-beam" width="360">
-  <img src="https://user-images.githubusercontent.com/77115160/144872839-68daf85d-7a15-453c-9f51-c910ff23a7c6.jpeg" alt="book-a-beam" width="360">
-  <img src="https://user-images.githubusercontent.com/77115160/144872852-bd768260-79cb-4a8a-8204-d64d29097be3.jpeg" alt="book-a-beam" width="360">
-  <img src="https://user-images.githubusercontent.com/77115160/144872858-ba18da30-bda2-4fd5-a455-b568ce2240d8.jpeg" alt="book-a-beam" width="360">
+  <img src="https://user-images.githubusercontent.com/77115160/144872826-fa13e36a-df97-486e-a1e3-523a57df89ea.jpeg" alt="book-a-beam" width="390">
+  <img src="https://user-images.githubusercontent.com/77115160/144872839-68daf85d-7a15-453c-9f51-c910ff23a7c6.jpeg" alt="book-a-beam" width="390">
+  <img src="https://user-images.githubusercontent.com/77115160/144872852-bd768260-79cb-4a8a-8204-d64d29097be3.jpeg" alt="book-a-beam" width="390">
+  <img src="https://user-images.githubusercontent.com/77115160/144872858-ba18da30-bda2-4fd5-a455-b568ce2240d8.jpeg" alt="book-a-beam" width="390">
   </div>
   <br>
   
